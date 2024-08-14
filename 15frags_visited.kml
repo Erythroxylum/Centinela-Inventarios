@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Document id="15frags_visited">
+      <name>15frags_visited</name>
+      <Placemark id="15frags_visited.1">
+        <name>Bosque Sur</name>
+        <ExtendedData>
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="BosqueSur">Bosque Sur</SimpleData>
+            <SimpleData name="layer">Bosque Sur</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/Coordenadas-Tracks-27mayo2024/archivos-qgis/Bosque-Sur.gpkg|layername=Bosque-Sur</SimpleData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.3094577902715,-0.668079688184255,0
+                -79.3094400503293,-0.667068580113162,0
+                -79.3095642299248,-0.666465462919185,0
+                -79.3099722485957,-0.666323552980455,0
+                -79.3102028678445,-0.665330183294938,0
+                -79.311994602008,-0.664567417150654,0
+                -79.3127928994076,-0.663272488310478,0
+                -79.3125090603322,-0.661924342856623,0
+                -79.3121542614879,-0.661622783954919,0
+                -79.3125090603322,-0.660700368377143,0
+                -79.3133783175006,-0.659866646457574,0
+                -79.3151345717797,-0.660700368377143,0
+                -79.315489370624,-0.662669370652788,0
+                -79.3160215688903,-0.662953190736146,0
+                -79.3155248505084,-0.664301335909814,0
+                -79.3167134266367,-0.665862345651357,0
+                -79.3144781939178,-0.666075210577842,0
+                -79.3136976364605,-0.666642850336847,0
+                -79.3135911968072,-0.667210490030417,0
+                -79.3121187816035,-0.667370138682435,0
+                -79.3111963046084,-0.667778129658495,0
+                -79.3102915675555,-0.66795551702883,0
+                -79.3094577902715,-0.668079688184255,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_5frags_visited.2">
+        <name>Bosque Cascada</name>
+        <ExtendedData>
+            <SimpleData name="Area">212494</SimpleData>
+            <SimpleData name="layer">BosqueCascada</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/QGIS-2024-Dawson/BosqueCascada.shp</SimpleData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.3150092321232,-0.674608660487692,0
+                -79.3145626498884,-0.67282245503935,0
+                -79.313312219631,-0.672143696797422,0
+                -79.3117581134539,-0.671572110836312,0
+                -79.3102754604345,-0.671054111001321,0
+                -79.309203663071,-0.673769144008529,0
+                -79.3120260627948,-0.6757339695836,0
+                -79.3130621335795,-0.675108797895805,0
+                -79.3138659816021,-0.675162384043624,0
+                -79.3139910246279,-0.675287418386237,0
+                -79.3157594902776,-0.675287418386237,0
+                -79.3150092321232,-0.674608660487692,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_5frags_visited.3">
+        <name>Centinela del Pichincha</name>
+        <ExtendedData>
+            <SimpleData name="Area">77750</SimpleData>
+            <SimpleData name="layer">BosqueCentinelaDelPichincha</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/QGIS-2024-Dawson/BosqueCentinelaDelPichincha.shp</SimpleData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.2946976573325,-0.618427822509189,0
+                -79.2949509207658,-0.619325704118972,0
+                -79.2952041841991,-0.618727116396003,0
+                -79.2959409505504,-0.617806212074971,0
+                -79.2967928366442,-0.617138556342404,0
+                -79.2971842437683,-0.616770194523041,0
+                -79.297552626944,-0.616056493425488,0
+                -79.2980361298621,-0.6149053624216,0
+                -79.2981052017076,-0.614398864701227,0
+                -79.296977028232,-0.614053525318896,0
+                -79.296355381623,-0.615457905334472,0
+                -79.295871878705,-0.616493923141786,0
+                -79.2947437052295,-0.617253669405725,0
+                -79.2946976573325,-0.618427822509189,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_5frags_visited.4">
+        <name>Bosque Palmar del Bimbe</name>
+        <ExtendedData>
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="Area">298218</SimpleData>
+            <SimpleData name="layer">BosquePalmardelBimbe</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/Coordenadas-Tracks-27mayo2024/archivos-qgis/BosquePalmardelBimbe.gpkg|layername=BosquePalmardelBimbe</SimpleData>
+
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.2352562001273,-0.501470305254642,0
+                -79.2355837842343,-0.500314170234604,0
+                -79.2375107495694,-0.500583935090851,0
+                -79.2387440073839,-0.501354691761819,0
+                -79.2394955238646,-0.500892237770117,0
+                -79.240343388612,-0.498464353779007,0
+                -79.2412683319729,-0.498965345787117,0
+                -79.2411141747461,-0.500198556721388,0
+                -79.2404590065321,-0.501740070063288,0
+                -79.2414224891997,-0.504110146117586,0
+                -79.241056365786,-0.504861633467073,0
+                -79.2392257487177,-0.503281583041994,0
+                -79.2376070978362,-0.503647692320942,0
+                -79.2384742322369,-0.505343356081327,0
+                -79.238917434264,-0.506403145706893,0
+                -79.2379539515965,-0.507270246180774,0
+                -79.2357957504211,-0.503840381406866,0
+                -79.2352562001273,-0.501470305254642,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_5frags_visited.5">
+        <name>Bosque Santa Rosa</name>
+        <ExtendedData>
+            <SimpleData name="Area">187093</SimpleData>
+            <SimpleData name="layer">BosqueSantaRosa</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/QGIS-2024-Dawson/BosqueSantaRosa.shp</SimpleData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.3332223440843,-0.676530971690285,0
+                -79.3337191506609,-0.67693742144583,0
+                -79.3343966141745,-0.678247092648522,0
+                -79.3340804645348,-0.679376119262977,0
+                -79.3348030922827,-0.680956756079912,0
+                -79.3358418696702,-0.682130943094199,0
+                -79.3365193331838,-0.682176104127492,0
+                -79.3362483477784,-0.680911595035186,0
+                -79.336745154355,-0.680414823515287,0
+                -79.3357967054359,-0.676485810604233,0
+                -79.3351192419224,-0.673911628005399,0
+                -79.3335836579582,-0.674769689023086,0
+                -79.3332223440843,-0.676530971690285,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_5frags_visited.6">
+        <name>Bosque Wilson</name>
+        <ExtendedData>
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="layer">BosqueWilson</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/Coordenadas-Tracks-27mayo2024/archivos-qgis/BosqueSurBaja.gpkg|layername=BosqueSurBaja</SimpleData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.3122220769202,-0.670171034394707,0
+                -79.3134227362618,-0.667419710850334,0
+                -79.3142732032955,-0.666769397787456,0
+                -79.3167745769239,-0.66666934961631,0
+                -79.3177751263753,-0.668070023827228,0
+                -79.3188257032992,-0.670771322962871,0
+                -79.3182754011009,-0.672322068089662,0
+                -79.3155238901097,-0.670371130592272,0
+                -79.3122220769202,-0.670171034394707,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_5frags_visited.7">
+        <name>Cascadas de Cristal</name>
+        <ExtendedData>
+            <SimpleData name="Area">6040033</SimpleData>
+            <SimpleData name="layer">CascadasCristal</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/QGIS-2024-Dawson/CascadasCristal.shp</SimpleData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.1316504524133,-0.463891974238354,0
+                -79.1292612191077,-0.464083106635458,0
+                -79.1282099564532,-0.461980649983741,0
+                -79.1267764164699,-0.462171782432372,0
+                -79.1265852778054,-0.463891974238354,0
+                -79.1248650298254,-0.464847636172205,0
+                -79.1232403511776,-0.462267348654759,0
+                -79.1235270591743,-0.459878192709949,0
+                -79.1266808471377,-0.457966867378159,0
+                -79.1270631244666,-0.45309298548029,0
+                -79.1190353005598,-0.450130428212463,0
+                -79.1162637899253,-0.446498904759322,0
+                -79.1155948045997,-0.452901852789804,0
+                -79.1134922792908,-0.455577709996983,0
+                -79.1109119073207,-0.454048648857041,0
+                -79.110625199324,-0.449461463501275,0
+                -79.1086182433474,-0.448505799521883,0
+                -79.1056555940484,-0.452328454688116,0
+                -79.1020239594239,-0.455577709996983,0
+                -79.0997302954505,-0.457202337102624,0
+                -79.1058467327129,-0.468861414879049,0
+                -79.1092872286729,-0.468479150339128,0
+                -79.112727724633,-0.465229900909549,0
+                -79.1157859432641,-0.47105943557805,0
+                -79.1179840379053,-0.478226889545998,0
+                -79.1254384458187,-0.473639719861594,0
+                -79.1284966644499,-0.471537266073164,0
+                -79.1300257737655,-0.466472261162807,0
+                -79.1315548830811,-0.465707731802105,0
+                -79.1316504524133,-0.463891974238354,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_5frags_visited.8">
+        <name>M2</name>
+        <ExtendedData>
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="Area">849033</SimpleData>
+            <SimpleData name="layer">M2</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/Coordenadas-Tracks-27mayo2024/archivos-qgis/M2.gpkg|layername=M2</SimpleData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.2157670601467,-0.430921690622724,0
+                -79.2199389360228,-0.427852810642664,0
+                -79.2217131820851,-0.428188469450428,0
+                -79.2216652294888,-0.430969641862626,0
+                -79.2269400150793,-0.430538080692646,0
+                -79.2268441098867,-0.434374179122099,0
+                -79.2259809631537,-0.436004520365984,0
+                -79.2161986335132,-0.436388130019171,0
+                -79.2157670601467,-0.430921690622724,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_5frags_visited.9">
+        <name>M3</name>
+        <ExtendedData>
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="Area">386810</SimpleData>
+            <SimpleData name="layer">M3</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/Coordenadas-Tracks-27mayo2024/archivos-qgis/M3.gpkg|layername=M3</SimpleData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.2337013311544,-0.436819690855622,0
+                -79.2396474530927,-0.436484032429411,0
+                -79.2394556427076,-0.438737738717449,0
+                -79.2366264395273,-0.441566858415544,0
+                -79.2310639383591,-0.442046370122267,0
+                -79.2337013311544,-0.436819690855622,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_5frags_visited.10">
+        <name>M4</name>
+        <ExtendedData>
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="Area">1440421</SimpleData>
+            <SimpleData name="layer">M4</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/Coordenadas-Tracks-27mayo2024/archivos-qgis/M4.gpkg|layername=M4</SimpleData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.2303206731168,-0.446529803077463,0
+                -79.2359790794775,-0.446050291661546,0
+                -79.2366024632291,-0.443029369024216,0
+                -79.2408222917015,-0.443077320186832,0
+                -79.237801278136,-0.447201119007194,0
+                -79.2379451359249,-0.449934333229163,0
+                -79.2458093617143,-0.450413844390778,0
+                -79.2419731540121,-0.464943017472233,0
+                -79.2408702442978,-0.455400758595164,0
+                -79.2335334970674,-0.455208954266241,0
+                -79.2329101133158,-0.451516719942712,0
+                -79.2303206731168,-0.446529803077463,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_5frags_visited.11">
+        <name>Norte-Cristales</name>
+        <ExtendedData>
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="Area">793993</SimpleData>
+            <SimpleData name="layer">NorteCristales</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/Coordenadas-Tracks-27mayo2024/archivos-qgis/NorteCristales.gpkg|layername=NorteCristales</SimpleData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.2072226552989,-0.425566644064239,0
+                -79.2123571507826,-0.423875327315571,0
+                -79.2143505431468,-0.42870765989823,0
+                -79.2157398772188,-0.433237968925502,0
+                -79.2157398772188,-0.436076961203845,0
+                -79.2098805117846,-0.434566859060976,0
+                -79.2072226552989,-0.425566644064239,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_5frags_visited.12">
+        <name>Bosque Vega</name>
+        <ExtendedData>
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="Vega">Bosque Vega</SimpleData>
+            <SimpleData name="layer">Propiedad-Vega</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/Coordenadas-Tracks-27mayo2024/archivos-qgis/Propiedad-Vega.gpkg|layername=Propiedad-Vega</SimpleData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.3022584176979,-0.664780318420155,0
+                -79.3062786244254,-0.662287957391638,0
+                -79.3094545877401,-0.664297926061054,0
+                -79.3087309505292,-0.666468691305674,0
+                -79.3094143856729,-0.669644438735357,0
+                -79.3066404430308,-0.672377991837717,0
+                -79.3043891272634,-0.668076664944313,0
+                -79.3043891272634,-0.668076664944313,0
+                -79.3022584176979,-0.664780318420155,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_5frags_visited.13">
+        <name>BCLR</name>
+        <ExtendedData>
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="layer">BCLR</SimpleData>
+            <SimpleData name="path">/Users/dawsonwhite/MEGA/qgis-centinela-shared/QGIS-2024-Dawson/BCLR.gpkg</SimpleData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.1855747162526,-0.483803577835186,0
+                -79.1865412095201,-0.48289752263852,0
+                -79.1866016153493,-0.480904200781094,0
+                -79.1875681086168,-0.480662585970895,0
+                -79.1875681086168,-0.478427648571903,0
+                -79.1888970368596,-0.477581996393075,0
+                -79.1905884000777,-0.478004822495505,0
+                -79.1921589516375,-0.477884015040324,0
+                -79.1935482857095,-0.479092089496446,0
+                -79.1951188372692,-0.479575319219286,0
+                -79.1944543731478,-0.485857302499348,0
+                -79.1880513552506,-0.485313669560654,0
+                -79.1855747162526,-0.483803577835186,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_5frags_visited.14">
+        <name>Paul Henry</name>
+        <ExtendedData>
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="layer">FincaPaulHenry</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/Coordenadas-Tracks-27mayo2024/archivos-qgis/FincaPaulHenry.gpkg|layername=FincaPaulHenry</SimpleData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.2372443524208,-0.425506239901021,0
+                -79.225163186577,-0.426291493985948,0
+                -79.2251027807478,-0.428828468173867,0
+                -79.2372443524208,-0.427741193624563,0
+                -79.2372443524208,-0.425506239901021,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_5frags_visited.15">
+      <name>BCLRN</name>
+        <ExtendedData>
+            <SimpleData name="Area">277812</SimpleData>
+            <SimpleData name="BCLRN">BCLRN</SimpleData>
+            <SimpleData name="layer">BCLRN</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/QGIS-2024-Dawson/BCLRN.shp</SimpleData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.1920241228859,-0.477543512070998,0
+                -79.1906630480134,-0.475577583038096,0
+                -79.1896044342237,-0.474103135895848,0
+                -79.1865420157606,-0.474140942236755,0
+                -79.1854834019708,-0.475917840026231,0
+                -79.1849162874406,-0.478224025836128,0
+                -79.1857102477829,-0.479396021606764,0
+                -79.1874493990089,-0.479774084715816,0
+                -79.1874115913735,-0.478224025836128,0
+                -79.1888860891521,-0.477203255163165,0
+                -79.1898690876711,-0.477694737357964,0
+                -79.1906630480134,-0.477770350000198,0
+                -79.1920241228859,-0.477543512070998,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

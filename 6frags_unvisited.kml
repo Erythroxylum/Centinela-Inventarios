@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="_frags_unvisited.schema">
+      <SimpleField name="fid" type="float"/>
+      <SimpleField name="BosqueBimbeToachi" type="string"/>
+      <SimpleField name="BosqueTigre" type="string"/>
+      <SimpleField name="Area" type="int"/>
+      <SimpleField name="layer" type="string"/>
+      <SimpleField name="path" type="string"/>
+    </Schema>
+    <Document id="_frags_unvisited">
+      <name>5frags_unvisited</name>
+      <Placemark id="_frags_unvisited.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#_frags_unvisited.schema">
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="BosqueBimbeToachi">?</SimpleData>
+            <SimpleData name="layer">Bosque-BimbeToachi</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/Coordenadas-Tracks-27mayo2024/archivos-qgis/Bosque-BimbeToachi.gpkg|layername=Bosque-BimbeToachi</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.2800945972208,-0.6639849855159,0
+                -79.2855261454666,-0.655971134824125,0
+                -79.2878430996134,-0.657338427797612,0
+                -79.2867036139674,-0.659313405875987,0
+                -79.2875392367745,-0.660604737273034,0
+                -79.2843486769658,-0.66482055214148,0
+                -79.2826394484968,-0.662997497503616,0
+                -79.2812720657217,-0.664592670348519,0
+                -79.2800945972208,-0.6639849855159,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_frags_unvisited.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#_frags_unvisited.schema">
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="BosqueTigre">?</SimpleData>
+            <SimpleData name="layer">Bosque-Tigre</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/Coordenadas-Tracks-27mayo2024/archivos-qgis/Bosque-Tigre.gpkg|layername=Bosque-Tigre</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.3196347491361,-0.657262467086676,0
+                -79.3197107148458,-0.654262018082014,0
+                -79.3240787431554,-0.653084626209787,0
+                -79.3277630800774,-0.649780331419455,0
+                -79.332396988371,-0.652818763490775,0
+                -79.3342201654045,-0.654679802228351,0
+                -79.3386641594239,-0.653654331988882,0
+                -79.3387021422787,-0.655895174092415,0
+                -79.3353596510505,-0.658173995541613,0
+                -79.3340682339851,-0.659541287911586,0
+                -79.3327008512099,-0.663301339989924,0
+                -79.3286746685942,-0.659769169936752,0
+                -79.3232431203484,-0.657984093793898,0
+                -79.3196347491361,-0.657262467086676,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_frags_unvisited.3">
+        <name>Bosque Polanco</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_frags_unvisited.schema">
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="Area">668841</SimpleData>
+            <SimpleData name="layer">BosquePolanco</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/Coordenadas-Tracks-27mayo2024/archivos-qgis/BosquePolanco.gpkg|layername=BosquePolanco</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.201703072654,-0.461756200912225,0
+                -79.202246725117,-0.459279641912267,0
+                -79.2093746129648,-0.459158834134183,0
+                -79.2120324694505,-0.456742678144548,0
+                -79.2132405860349,-0.458192371836073,0
+                -79.2134218035225,-0.461997816378301,0
+                -79.2138446443271,-0.465380432038737,0
+                -79.2105827295492,-0.465924066547461,0
+                -79.2079852788928,-0.462360239562008,0
+                -79.201703072654,-0.461756200912225,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_frags_unvisited.4">
+        <name>M7</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_frags_unvisited.schema">
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="Area">592084</SimpleData>
+            <SimpleData name="layer">M7</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/Coordenadas-Tracks-27mayo2024/archivos-qgis/M7.gpkg|layername=M7</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.2530502037522,-0.46134669024976,0
+                -79.2515636732676,-0.46134669024976,0
+                -79.2515636732676,-0.459332746210317,0
+                -79.2548244498145,-0.45894913775743,0
+                -79.2559273595288,-0.457079046255309,0
+                -79.258564752324,-0.455976171551305,0
+                -79.2625448178151,-0.457174948395485,0
+                -79.2626886756039,-0.458421676101122,0
+                -79.2600992354049,-0.45894913775743,0
+                -79.2598115198272,-0.460915130860638,0
+                -79.2573659374171,-0.46206595584012,0
+                -79.256646648473,-0.464367605239368,0
+                -79.2537215401001,-0.464799164418411,0
+                -79.2530502037522,-0.46134669024976,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_frags_unvisited.5">
+        <name>Norte-Monte</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_frags_unvisited.schema">
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="Area">526815</SimpleData>
+            <SimpleData name="layer">Norte-monte</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/Coordenadas-Tracks-27mayo2024/archivos-qgis/Norte-monte.gpkg|layername=Norte-monte</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.2094576709801,-0.415720759263016,0
+                -79.2102429467599,-0.413123376551573,0
+                -79.214954601439,-0.412398525410577,0
+                -79.2175520520954,-0.415177121091603,0
+                -79.2162231238526,-0.420009459076857,0
+                -79.2121759332949,-0.41916380014414,0
+                -79.2094576709801,-0.415720759263016,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="_frags_unvisited.6">
+        <name>Norte4</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#_frags_unvisited.schema">
+            <SimpleData name="fid">1</SimpleData>
+            <SimpleData name="Area">417953</SimpleData>
+            <SimpleData name="layer">Norte4</SimpleData>
+            <SimpleData name="path">/Volumes/Mac HD/Users/dawsonwhite/MEGA/qgis-centinela-shared/Coordenadas-Tracks-27mayo2024/archivos-qgis/Norte4.gpkg|layername=Norte4</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -79.2650837099315,-0.509362208558662,0
+                -79.2659999070108,-0.504821235671772,0
+                -79.2730506410559,-0.504104239662185,0
+                -79.2723336172547,-0.508764712308362,0
+                -79.2699435379174,-0.509402041640047,0
+                -79.2650837099315,-0.509362208558662,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
